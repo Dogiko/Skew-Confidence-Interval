@@ -2,7 +2,7 @@
 
 An algorithm to estimate CI for distribution with high skew.
 
-Generate a distribution $X~\log{(N(\mu, \sigma))}+b$ with unique $\mu, \sigma, b$ match given $m, v, s$ (mean, variance and skewness).
+Generate a distribution $X~\exp{(N(\mu, \sigma))}+b$ with unique $\mu, \sigma, b$ match given $m, v, s$ (mean, variance and skewness).
 
 ### ps:
 
